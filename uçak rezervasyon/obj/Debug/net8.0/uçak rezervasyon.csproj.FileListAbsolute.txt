@@ -1,0 +1,4 @@
+/Users/eren/Desktop/uçak rezervasyon/obj/Debug/net8.0/uçak rezervasyon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eren/Desktop/uçak rezervasyon/obj/Debug/net8.0/uçak rezervasyon.AssemblyInfoInputs.cache
+/Users/eren/Desktop/uçak rezervasyon/obj/Debug/net8.0/uçak rezervasyon.AssemblyInfo.cs
+/Users/eren/Desktop/uçak rezervasyon/obj/Debug/net8.0/uçak rezervasyon.csproj.CoreCompileInputs.cache
